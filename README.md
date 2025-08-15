@@ -13,6 +13,7 @@ Fully Connected Layer with 500 neurons (ReLU)
 Output Layer with softmax activation for multi-class classification
 
 Test Score: 0.12
+
 Test Accuracy: 0.98
 
 The trained model is saved as: traffic_signal_classifier.keras
